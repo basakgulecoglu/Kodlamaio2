@@ -7,7 +7,7 @@ public class UserManager {
 		}
 		
 		public void delete (User user) {
-			System.out.println( user.userNumber +" Hesabınız Silindi.");
+			System.out.println( user.id +" Hesabınız Silindi.");
 		}
 		
 		public UserManager() {
