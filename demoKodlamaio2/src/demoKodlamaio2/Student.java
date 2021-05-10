@@ -1,8 +1,10 @@
 package demoKodlamaio2;
 
 public class Student extends User {
-	
-	String percent;
+	String userNumber;
+	 String firstName;
+	 String lastName;
+	 String percent;
 	
 
 	public Student() {
